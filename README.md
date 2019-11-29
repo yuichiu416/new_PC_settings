@@ -22,3 +22,5 @@ a cheetsheet for setting up a new PC
   * [Simple Ruby ERB](https://marketplace.visualstudio.com/items?itemName=vortizhe.simple-ruby-erb)
   * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 4. [Install the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+5. [Install Ruby](https://rubyinstaller.org/downloads/)
+6. [Install NPM](https://nodejs.org/en/)
