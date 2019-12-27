@@ -25,3 +25,4 @@ a cheetsheet for setting up a new PC
 5. [Install Ruby](https://rubyinstaller.org/downloads/)
 6. [Install NPM](https://nodejs.org/en/)
 7. [Install Adobe Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
+8. `npm install -g @angular/cli`
