@@ -25,4 +25,13 @@ a cheetsheet for setting up a new PC
 5. [Install Ruby](https://rubyinstaller.org/downloads/)
 6. [Install NPM](https://nodejs.org/en/)
 7. [Install Adobe Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
-8. `npm install -g @angular/cli`
+8. Install linux bash
+   * Enable “Windows Subsystem for Linux” feature
+      * Run WindowsPowerShell as Administrator
+         *Run `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`, hit `Y` if prompted
+   *  Download a Linux system from the Windows store
+      * Select Ubuntu and install
+   * Settings -> Update & Security -> For developers -> Select developer Mode
+   * Control Panel -> Programs -> windows features -> Windows Subsystem for Linux
+     
+9. `npm install -g @angular/cli`
