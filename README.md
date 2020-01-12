@@ -3,6 +3,8 @@ a cheetsheet for setting up a new PC
 
 1. [Download VS Code](https://code.visualstudio.com/Download)
 2. [Download Git for Windows](https://gitforwindows.org/)
+   * Select `Use Git and optional Unix tools from the Command Prompt`
+   * Select `Use Windows' default console window`
 3. Download extensions:
     * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
     * [Bracket Pair Colorize](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
