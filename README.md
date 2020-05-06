@@ -29,3 +29,4 @@ a cheetsheet for setting up a new PC
       * Select Ubuntu and install
    * Settings -> Update & Security -> For developers -> Select developer Mode
    * Control Panel -> Programs -> windows features -> Windows Subsystem for Linux
+9. [Install Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
