@@ -29,6 +29,8 @@ Download extensions:
  * [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
 
  * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+ 
+ * [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
     
 [Install the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
