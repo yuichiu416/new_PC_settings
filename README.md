@@ -31,6 +31,10 @@ Download extensions:
  * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
  
  * [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
+ 
+ * [SSH FS](https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs)
+ 
+ * [Git Lengs](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     
 [Install the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
@@ -54,3 +58,48 @@ Install linux bash
 Install Pip:
   [Download this file](https://bootstrap.pypa.io/get-pip.py)
   In that folder, do `python get-pip.py`
+
+
+settings.json for windows
+```json
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.rename.enablePreview": false,
+    "workbench.editor.enablePreview": false,
+    "window.zoomLevel": 0,
+    "editor.suggestSelection": "first",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.tabSize": 2,
+    "vsicons.dontShowNewVersionMessage": true,
+    "python.languageServer": "Microsoft",
+    "sshfs.configs": [
+        {
+            "host": "inside.sockettelecom.com",
+            "name": "insidedev",
+            "password": "Kr@IT9",
+            "privateKeyPath": "c:\\Users\\administrator-yui\\.ssh\\id_rsa",
+            "root": "/home/rkiew/dev",
+            "username": "rkiew"
+        }
+    ],
+    "php.validate.executablePath": "C:\\PHP",
+    "workbench.startupEditor": "newUntitledFile",
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    }
+}
+```
