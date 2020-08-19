@@ -34,7 +34,7 @@ Download extensions:
  
  * [SSH FS](https://marketplace.visualstudio.com/items?itemName=Kelvin.vscode-sshfs)
  
- * [Git Lengs](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+ * [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
     
 [Install the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
