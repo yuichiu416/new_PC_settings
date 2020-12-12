@@ -6,6 +6,13 @@ a cheetsheet for setting up a new PC
 [Download Git for Windows](https://gitforwindows.org/)
    * Select `Use Git and optional Unix tools from the Command Prompt`
    * Select `Use Windows' default console window`
+   * Select `Use the OpenSSL library`
+   * Select `Checkout Windows-style, commit Unix-style line endings`
+   * Select `Use MinTTY`
+   * Select `Default (fast-forward or merge)`
+   * Select `Git Credential Manager Core`
+   * Select `Enable file system caching`
+   * Select `Enable experimental support for pseudo consoles`
 
 Download extensions:
  * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
