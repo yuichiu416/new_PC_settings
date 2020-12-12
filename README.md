@@ -87,18 +87,7 @@ settings.json for windows
         "**/.factorypath": true
     },
     "editor.tabSize": 2,
-    "vsicons.dontShowNewVersionMessage": true,
-    "python.languageServer": "Microsoft",
-    "sshfs.configs": [
-        {
-            "host": "inside.sockettelecom.com",
-            "name": "insidedev",
-            "password": "Kr@IT9",
-            "privateKeyPath": "c:\\Users\\administrator-yui\\.ssh\\id_rsa",
-            "root": "/home/rkiew/dev",
-            "username": "rkiew"
-        }
-    ],
+
     "php.validate.executablePath": "C:\\PHP",
     "workbench.startupEditor": "newUntitledFile",
     "[json]": {
